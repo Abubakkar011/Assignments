@@ -1,4 +1,4 @@
-# Task: To count repeatedly occurred characters in a string
+# Task 4: To count repeatedly occurred characters in a string
 def most_frequent(string):
     string=list(string)
     i=int(0)
